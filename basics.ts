@@ -4,4 +4,8 @@ let check: boolean = true;
 
 let myRegEx: RegExp = /foo/;
 
-console.log();
+const names: string[] = nam.split("");
+
+const values: Array<number> = [3, 5, 2];
+
+console.log(names);
