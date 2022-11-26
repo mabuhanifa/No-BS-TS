@@ -5,8 +5,8 @@
 ```
  > yarn init -y
  > yarn add typescript -D
- >yarn add ts-node -D
- >npx tsc --init
+ > yarn add ts-node -D
+ > npx tsc --init
 
 ```
 
