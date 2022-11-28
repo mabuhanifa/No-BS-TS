@@ -24,5 +24,5 @@ export function createAdder(num: number): AdderFunction {
   return (val: number) => num + val;
 }
 
-const addOne = createAdder(1);
+const addOne = createAdder(1); // addOne is a function
 console.log(addOne(55));
